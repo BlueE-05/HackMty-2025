@@ -22,13 +22,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+<div align="center">
+
 [![Mobile App][mobile-app-img]](https://github.com/BlueE-05/HackMty-2025/MobileApp)
+
+</div>
 
 
 Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`, `project_license`
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ### Built With
@@ -70,19 +71,12 @@ This is an example of how to list things you need to use the software and how to
    git remote -v # confirm the changes
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- ROADMAP -->
@@ -95,15 +89,12 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTRIBUTORS -->
 ## Contributors:
 
 <a href="https://github.com/BlueE-05/HackMty-2025/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=BlueE-05/HackMty-2025" alt="contribiutors image" />
+  <img src="https://contrib.rocks/image?repo=BlueE-05/HackMty-2025" alt="contribiutors" />
 </a>
 
 
@@ -113,22 +104,22 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 
 Distributed under the project_license. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
 
 Dana Torres - danaetorres35@gmail.com
+<br>
 Daniel Sánzhez - @gmail.com
+<br>
 Fátima Castillo - @gmail.com
+<br>
 Máximo - @gmail.com
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[mobile-app-img]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fes%2Fsearch%3Fk%3Dapp%2Bmockup&psig=AOvVaw1Jko_kEYh-Z_AlPKdNTM2J&ust=1761488404410000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMCjwqeWwJADFQAAAAAdAAAAABAE
-
+[mobile-app-img]: https://t3.ftcdn.net/jpg/04/26/48/00/240_F_426480050_rKKkMEPpsCR6Uswwmct3Nqs0DueiGUOy.jpg
 <!-- Shields.io badges. You can a comprehensive list with many more badges at: https://github.com/inttter/md-badges -->
-[KMP]: https://img.shields.io/badge/Kotlin-Multiplatform-%237f52ff?logo=kotlin
+[KMP]: https://img.shields.io/badge/Kotlin-Multiplatform-gray?logo=kotlin&logoColor=white&labelColor=%237F52FF
+
 [KMP-url]: https://kotlinlang.org/
