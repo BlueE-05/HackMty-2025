@@ -94,7 +94,7 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 ## Contributors:
 
 <a href="https://github.com/BlueE-05/HackMty-2025/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=BlueE-05/HackMty-2025" alt="contribiutors" />
+  <img src="https://contrib.rocks/image?repo=BlueE-05/HackMty-2025" />
 </a>
 
 
