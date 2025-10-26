@@ -1,22 +1,12 @@
-# Para la API de Gemini
-google-genai>=0.3.0
-
-# Para procesamiento de imágenes
-pillow>=10.0.0
-
-# Para descargar imágenes desde URLs
-requests>=2.31.0
-
-# Para manejo de reintentos automáticos
-tenacity>=8.2.0
-
 # Para cálculos numéricos (opcional pero recomendado)
 numpy>=1.24.0
 
 # Para manejar variables de entorno (API keys)
 python-dotenv>=1.0.0
 
+# Para preprocesamiento avanzado de imágenes 
+opencv-python>=4.8.0
+
 # Otras dependencias útiles para desarrollo:
 # matplotlib>=3.7.0  # Para visualización (opcional)
-# opencv-python>=4.8.0  # Para preprocesamiento avanzado (opcional)
 # jupyter>=1.0.0  # Para experimentación (opcional)
